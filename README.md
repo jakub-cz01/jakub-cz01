@@ -4,7 +4,7 @@ I'm a graduate student at **Warsaw University of Technology**, passionate about 
 
 ## 🛠️ My Tech Stack
 
-Based on my recent projects and coursework, here are the technologies I actively work with:
+Based on my recent projects and coursework, here are the technologies I actively have worked with:
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
